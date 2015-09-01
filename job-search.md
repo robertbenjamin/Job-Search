@@ -10,7 +10,7 @@ I want to have my own place of live and be self-sustained. Eventually, I want to
 
 **What kind of salary level do I need to sustain myself and my family?**
 
-When I start out, depending on where I’m living, anywhere from $50k to $80k would be ideal. In the long run, I’d take a job with less hours and more freedom any day, as long as the salary was still enough for me to live comfortably.
+When I start out, depending on where I’m living, anywhere from __ to __ would be ideal. In the long run, I’d take a job with less hours and more freedom any day, as long as the salary was still enough for me to live comfortably.
 
 **What kind of job security level do I need to sustain myself?**
 
