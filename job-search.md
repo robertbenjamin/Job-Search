@@ -1,5 +1,7 @@
 # Job Search
 
+Taken from The Odin Project's ["Getting Hired as a Web Developer"](http://www.theodinproject.com/getting-hired-as-a-web-developer) section.
+
 ## Where You Are Now
 
 **Why do I need a job?**
