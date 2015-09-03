@@ -24,6 +24,10 @@ Pretty desperate! I don’t like sitting around.
 
 **Why do I want a job in web development?**
 
+I enjoy the combination of skills required to do web development, and I believe it matches my own skillset and interests quite well. I also think the web hasn't even begun to reach its full potential, and being along for the ride as the internet of things, big data, and machine learning take off will certainly be exciting.
+
+If nothing else, web development is a field that not only encourages by necessitates continual learning, 
+
 **What kind of career path do I want to have?**
 
 **Do I want to work in a developer-led organization (vs sales- or business-led)?**
@@ -32,7 +36,13 @@ Pretty desperate! I don’t like sitting around.
 
 **Do I like working long hours / weekends or 9-6?**
 
+I could for a period of my life, but for the indefinite future? Absolutely not. It's been proven time and time again that [too much work results in negative productivity,](http://lengstorf.com/overtime-hurts-productivity/?utm_source=medium-com&utm_medium=negative-productivity&utm_campaign=overkill-cult) *especially* when the work involved is heavily creative — which web development certainly is.
+
+Indeed, I believe a majority of high-quality creative work is done is short 3 or 4 hour bursts. 
+
 **Is the work more important than the people?**
+
+No. Work is never separate from people unless you delude yourself into thinking so. You are either working for someone or working for yourself, and in both cases you should view the work as a means to an end and not the end in itself. Whether you're creating a beautiful website, a complex algorithm, or a silly mobile game, your goal should be to create something of quality, something worthwhile, because it is these things that people can appreciate.
 
 **Do I have to care about the product I'm building?**
 
