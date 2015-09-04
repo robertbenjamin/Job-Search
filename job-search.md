@@ -46,6 +46,8 @@ No. Work is never separate from people unless you delude yourself into thinking 
 
 **Do I have to care about the product I'm building?**
 
+Yes, I don't think I could do excellent work on a product I don't care about.
+
 **Do I have to care about the technologies I'm using?**
 
 **Do I prefer an "easy" work environment or one where I'm constantly pushed?**
