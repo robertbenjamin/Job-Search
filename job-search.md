@@ -18,7 +18,7 @@ I don’t particularly care about job security beyond knowing I’ll get a stead
 
 **How desperate am I to get a job right now?**
 
-Pretty desperate! I don’t like sitting around.
+Not desperate, but not content either. I don’t like inactivity.
 
 ## Where You Want To Be
 
@@ -29,6 +29,8 @@ I enjoy the combination of skills required to do web development, and I believe 
 If nothing else, web development is a field that not only encourages by necessitates continual learning, 
 
 **What kind of career path do I want to have?**
+
+A varied one, which incorporates a lot of different abilities and insights from multiple fields. I enjoy journalism, media, technology, travel, and a host of other things, and the more I enjoy them the more I see parallels and similarities between them. I think I'd be putting my talents to waste if I pigeonholed myself into one market.
 
 **Do I want to work in a developer-led organization (vs sales- or business-led)?**
 
