@@ -34,6 +34,8 @@ A varied one, which incorporates a lot of different abilities and insights from 
 
 **Do I want to work in a developer-led organization (vs sales- or business-led)?**
 
+Whether dev, sales, or business lead, I care about having leaders that recognize and have a decent grasp on fields outside their own.
+
 **Do I prefer working in a team environment or remotely?**
 
 **Do I like working long hours / weekends or 9-6?**
