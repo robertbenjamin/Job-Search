@@ -38,6 +38,8 @@ Whether dev, sales, or business lead, I care about having leaders that recognize
 
 **Do I prefer working in a team environment or remotely?**
 
+I'm open to either! I enjoy the locational freedom of remote work but also appreciate the camaraderie and shared space of a physical office.
+
 **Do I like working long hours / weekends or 9-6?**
 
 I could for a period of my life, but for the indefinite future? Absolutely not. It's been proven time and time again that [too much work results in negative productivity,](http://lengstorf.com/overtime-hurts-productivity/?utm_source=medium-com&utm_medium=negative-productivity&utm_campaign=overkill-cult) *especially* when the work involved is heavily creative — which web development certainly is.
@@ -53,6 +55,8 @@ No. Work is never separate from people unless you delude yourself into thinking 
 Yes, I don't think I could do excellent work on a product I don't care about.
 
 **Do I have to care about the technologies I'm using?**
+
+I can't hate the technologies I'm using, but I don't have to love them either. Some technology takes time to warm up to, and I'm fine with that. That being said, if I'm able to work on technologies I enjoy using, that's a 1+ for me.
 
 **Do I prefer an "easy" work environment or one where I'm constantly pushed?**
 
