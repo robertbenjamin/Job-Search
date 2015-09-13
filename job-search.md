@@ -60,12 +60,30 @@ I can't hate the technologies I'm using, but I don't have to love them either. S
 
 **Do I prefer an "easy" work environment or one where I'm constantly pushed?**
 
+I don't mind being pushed, but ideally would work on stuff I enjoy enough that I don't *need* to be motivated. I should work hard because I want to, because I enjoy it.
+
 **Do I want "creature comfort" incentives like free food and beer at the office?**
+
+They're certainly nice!
 
 **Do I have to enjoy my work or can I power through a crappy job?**
 
+I absolutely have to enjoy my work and my coworkers. That's my first and most important requirement before I'd agree to work somewhere!
+
 > You should have at least an informal list of the things that matter to you. Now ruthlessly rank them. What are your non-negotiables and what are your nice-to-haves? Every company and opportunity will fall somewhere on the spectrum defined by those questions and they are the criteria you will later use to evaluate them. This will help you stay focused when considering opportunities and not spread yourself too thin chasing things that you wouldn't really choose anyway.
+
 > Make sure you know every one of your "must-haves" and your top 5 priorities for "nice-to-haves" in a job.
+
+### Must Haves
+1. Great coworkers I enjoy interacting and hanging out with.
+2. Work I enjoy and have personal interest in.
+
+### Nices-To-Haves
+1. Varied work that combines lot of different abilities and insights from multiple fields.
+2. A flexible work schedule where productivity is valued higher than number of hours worked.
+3. Work involving technology I enjoy using!
+4. Potential for remote work.
+5. Creature comforts like free food.
 
 ## What Are Your Assets and Liabilities?
 
