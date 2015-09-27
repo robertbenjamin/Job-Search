@@ -89,6 +89,8 @@ I absolutely have to enjoy my work and my coworkers. That's my first and most im
 
 **How hungry am I?**
 
+Very. I read pretty obessively and spend a huge chunk of my free time learning new things, I just need to make sure to direct and guide what I read and learn.
+
 **How good am I at building back end code?**
 
 **How good am I at putting together front ends?**
@@ -96,6 +98,8 @@ I absolutely have to enjoy my work and my coworkers. That's my first and most im
 **Can I solve really technical problems like brain teasers and algorithms?**
 
 **Have I built projects that display a good range of skills?**
+
+Yes, I've built full-stack projects in a number of different frameworks, both with Ruby and Javascript.
 
 **Do I know people who can recommend me?**
 
