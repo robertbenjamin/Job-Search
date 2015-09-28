@@ -93,7 +93,11 @@ Very. I read pretty obessively and spend a huge chunk of my free time learning n
 
 **How good am I at building back end code?**
 
+Solid, although I do prefer front-end work. I think there's recently been a shift towards minimizing what the back end does until it's just a simple API, and letting the front end handle the user's side of things, and I'm quite capable of building up that simple API.
+
 **How good am I at putting together front ends?**
+
+I love the front end! I love trying out new frameworks like Angular and Backbone and I enjoy making stuff from scratch as well. I like designing (although I have a lot of room to improve) and learn new things about CSS every time I use it.
 
 **Can I solve really technical problems like brain teasers and algorithms?**
 
