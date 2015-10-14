@@ -101,6 +101,8 @@ I love the front end! I love trying out new frameworks like Angular and Backbone
 
 **Can I solve really technical problems like brain teasers and algorithms?**
 
+Generally, yes. I have good proble msolving skills and quite logical and analytical. I don't have a very technical background in standard CS concepts (although I am reading up on them and taking online courses to resolve that), but if I am given a problem I am sure I would at least be able to form a base and lay out potential solutions.
+
 **Have I built projects that display a good range of skills?**
 
 Yes, I've built full-stack projects in a number of different frameworks, both with Ruby and Javascript.
@@ -115,11 +117,17 @@ Yes, I've built full-stack projects in a number of different frameworks, both wi
 
 **Do I have a broad level of general tech knowledge?**
 
+Absolutely, I've been tinkering around with computers and reading stuff on the internet since I was a little kid, I'm very familiar with tech in general and try to keep up with recent advances in many fields.
+
 **Am I very familiar with a particular technical or industry vertical? (Usually career switchers have one)**
+
+I've been involved in a number of industries, but I'd say I spend most of my attention on the startup scene, music and music production industry, and the travel / remote worker industry.
 
 **Do I tend to procrastinate or do I just get shit done?**
 
 **Do I wait to ask for help or do I go out and find the answer on my own?**
+
+I learn towards finding an answer on my own, although I don't hesitate to ask if I'm really stuck with something.
 
 **Do I lean in to challenges or avoid them?**
 
