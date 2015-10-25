@@ -44,7 +44,7 @@ I'm open to either! I enjoy the locational freedom of remote work but also appre
 
 I could for a period of my life, but for the indefinite future? Absolutely not. It's been proven time and time again that [too much work results in negative productivity,](http://lengstorf.com/overtime-hurts-productivity/?utm_source=medium-com&utm_medium=negative-productivity&utm_campaign=overkill-cult) *especially* when the work involved is heavily creative — which web development certainly is.
 
-Indeed, I believe a majority of high-quality creative work is done is short 3 or 4 hour bursts. 
+Indeed, I believe a majority of high-quality creative work is done is short 3 or 4 hour bursts with breaks inbetween.
 
 **Is the work more important than the people?**
 
@@ -108,6 +108,8 @@ Generally, yes. I have good proble msolving skills and quite logical and analyti
 Yes, I've built full-stack projects in a number of different frameworks, both with Ruby and Javascript.
 
 **Do I know people who can recommend me?**
+
+Yes, I know a good number of people both technical and otherwise that could recommend me.
 
 **Am I a good people person who builds relationships easily?**
 
